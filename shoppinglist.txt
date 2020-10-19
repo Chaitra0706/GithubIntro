@@ -6,3 +6,5 @@ banana
 cherry
 carrot
 tomato
+cucumber
+radishs
