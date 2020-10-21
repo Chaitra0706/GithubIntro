@@ -9,3 +9,5 @@ tomato
 cucumber
 radishs
 soapui errors
+wsdl
+xsd
