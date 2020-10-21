@@ -11,3 +11,4 @@ radishs
 soapui errors
 wsdl
 xsd
+colors
